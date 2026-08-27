@@ -1,9 +1,12 @@
+<div align="center">
+
 # 👋 Hey, I'm Atik!
 
-### 💻 CSE Student | Developer | Tech Enthusiast
+### 💻 CSE Student • Developer • Tech Enthusiast
 
-I'm a Computer Science student who enjoys building projects,
-learning new technologies, and improving my programming skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;I+love+building+projects+%F0%9F%9A%80;Currently+learning+Python+%F0%9F%90%8D;Exploring+DSA+%26+Web+Development+%F0%9F%92%BB" />
+
+</div>
 
 ---
 
