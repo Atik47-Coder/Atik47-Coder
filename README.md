@@ -129,3 +129,15 @@ Data Structures & Algorithms
 Database Systems
    ↓
 More Projects 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atik47-Coder&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atik47-Coder&hide_border=true" height="180"/>
+
+</div>
