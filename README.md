@@ -119,7 +119,7 @@ My personal portfolio website showcasing my projects and skills.
 
 ## 📚 Currently Learning
 
-```text
+
 Python
    ↓
 Django
