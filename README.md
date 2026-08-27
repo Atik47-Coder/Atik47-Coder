@@ -53,6 +53,8 @@
   <img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -117,9 +119,11 @@ My personal portfolio website showcasing my projects and skills.
 </tr>
 </table>
 
+---
+
 ## 📚 Currently Learning
 
-
+```text
 Python
    ↓
 Django
@@ -129,15 +133,3 @@ Data Structures & Algorithms
 Database Systems
    ↓
 More Projects 🚀
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atik47-Coder&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Atik47-Coder&hide_border=true" height="180"/>
-
-</div>
