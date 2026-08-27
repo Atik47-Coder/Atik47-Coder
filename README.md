@@ -55,15 +55,67 @@
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technology |
-|--------|-------------|------------|
-| 🎮 Tic Tac Toe | Console-based Tic Tac Toe game | C++ |
-| ✊ Rock Paper Scissors | Classic Rock Paper Scissors game | Java |
-| 💊 MedPharma | JavaFX-based pharmacy management system | Java |
-| 🌐 Portfolio | Personal developer portfolio | HTML, CSS |
-| 🗄️ Gaming Tournament DB | Database management project | SQL |
+<table>
+<tr>
+<td width="50%">
 
----
+### 🎮 Tic Tac Toe
+
+A console-based Tic Tac Toe game built with C++.
+
+**Tech:** `C++`
+
+<a href="https://github.com/Atik47-Coder/Tic-Tac-Toe">
+  🔗 View Project
+</a>
+
+</td>
+
+<td width="50%">
+
+### ✊ Rock Paper Scissors
+
+A classic Rock Paper Scissors game developed using Java.
+
+**Tech:** `Java`
+
+<a href="https://github.com/Atik47-Coder/Rock-Paper-Scissor">
+  🔗 View Project
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 💊 MedPharma
+
+A pharmacy management application developed using JavaFX.
+
+**Tech:** `Java` `JavaFX`
+
+<a href="https://github.com/Atik47-Coder/MedPharma">
+  🔗 View Project
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio website showcasing my projects and skills.
+
+**Tech:** `HTML` `CSS`
+
+<a href="https://github.com/Atik47-Coder/Portfolio">
+  🔗 View Project
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 📚 Currently Learning
 
