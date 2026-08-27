@@ -22,19 +22,36 @@
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-`C` `C++` `Java` `Python`
+### 💻 Programming Languages
 
-### Web Development
-`HTML` `CSS`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" height="50"/>
+  <img src="https://skillicons.dev/icons?i=java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" height="50"/>
+</p>
 
-### Database
-`SQL` `MySQL`
+### 🌐 Web Development
 
-### Tools
-`Git` `GitHub` `VS Code` `PyCharm`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" height="50"/>
+</p>
 
----
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+</p>
+
+### 🔧 Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" height="50"/>
+</p>
 
 ## 🚀 Featured Projects
 
