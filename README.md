@@ -136,7 +136,7 @@ Data Structures & Algorithms
 Database Systems
    ↓
 More Projects 🚀
----
+
 ```
 ---
 
