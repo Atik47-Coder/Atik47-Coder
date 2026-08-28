@@ -133,3 +133,18 @@ Data Structures & Algorithms
 Database Systems
    ↓
 More Projects 🚀
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Atik47-Coder">
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+
+<a href="https://github.com/Atik47-Coder/Portfolio">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=googlechrome&logoColor=white" height="45"/>
+</a>
+
+</div>
