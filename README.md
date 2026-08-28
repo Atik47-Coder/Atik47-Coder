@@ -138,6 +138,15 @@ Database Systems
 More Projects 🚀
 ---
 ```
+---
+
+## 🔨 What I'm Working On
+
+- 🐍 Improving my Python skills
+- 🌐 Learning Django & Web Development
+- 🧠 Practicing Data Structures & Algorithms
+- 🗄️ Improving my Database & SQL skills
+- 🚀 Building more projects and uploading them to GitHub
 ## 🤝 Connect With Me
 
 <div align="center">
